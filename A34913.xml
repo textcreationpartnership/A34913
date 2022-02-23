@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cry of Newgate with the other prisons in and about London in which dismal holes and cels [sic] are imured about three hundred persons of the innocent people of God called Quakers, for no other cause but for their unspotted testimonies in God, held in clear consciences / to you magistrates, priests, and people of the city of London, and elsewhere whom these may concern, are these words uttered by R.C.</title>
+            <author>R. C. (Richard Crane)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34913</idno>
+            <idno type="STC">Wing C6809</idno>
+            <idno type="STC">ESTC R29280</idno>
+            <idno type="EEBO-CITATION">11062488</idno>
+            <idno type="OCLC">ocm 11062488</idno>
+            <idno type="VID">46206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1421:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cry of Newgate with the other prisons in and about London in which dismal holes and cels [sic] are imured about three hundred persons of the innocent people of God called Quakers, for no other cause but for their unspotted testimonies in God, held in clear consciences / to you magistrates, priests, and people of the city of London, and elsewhere whom these may concern, are these words uttered by R.C.</title>
+                  <author>R. C. (Richard Crane)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46206:1"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:46206:1"/>
+            <!-- PDF PAGE 57 -->
+            <p>THE CRY OF NEVVGATE, With the other <hi>Priſons,</hi> in and about LONDON:</p>
+            <p>In which diſmal Holes, and Cels, are imured about three hundred Perſons, of the Innocent People of God, called <hi>Quakers,</hi> for no other Cauſe, but for their unſpotted Teſtimonies in God, held in clear Conſciences.</p>
+            <p>To you <hi>Magiſtrates, Prieſts,</hi> and <hi>People</hi> of this City of <hi>London,</hi> and elſewhere, whom theſe may concern, are theſe Words uttered.</p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46206:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="3" facs="tcp:46206:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>The <hi>Cry</hi> of <hi>Newgate,</hi> with the other <hi>Priſons,</hi> in and about <hi>LONDON,</hi> &amp;c.</head>
+            <p>OYe <hi>Magiſtrates,</hi> when will ye deſiſt from your Tragical actions? Conſider, Conſider, great, grievous and cruel, is the burthen that is born by us from that inſatiate bloody perſecuting ſpirit which this day hath Dominion in you; I ſay, and Chal<g ref="char:EOLhyphen"/>lenge in the Name and fear of God, what is it we have done, that you ſhould execute your implacable furies on us, by haling, dragging, and carrying us out of our peaceable Meetings, as you do without any Re<g ref="char:EOLhyphen"/>morſe, Mercy, or Compaſſion ſhewn unto any, young or old Age, or Sex, and by that Abominable practice, of <hi>Club Law,</hi> the which doth violate the <hi>Lawes Civil,</hi> that are made and provided for <hi>Engliſh-men,</hi> who are peaceable and Free-born of the Nation, and are made for the preſervation of the <hi>good Proteſtant People</hi> Inha<g ref="char:EOLhyphen"/>biting therein, and not for their ruine and Deſtruction, as is this day made manifeſt in the face of the World, becauſe of the difference of perſwaſion in <hi>Conſcience,</hi> about <hi>Religion,</hi> and for no other cauſe?</p>
+            <p>Oh! why do you prevaricate with the <hi>Light</hi> of <hi>God</hi> in your <hi>Conſciences,</hi> which lets you ſee the abomination of this thing? known be it to you, we the People of the moſt high God, called <hi>Quakers,</hi> have moſt unjuſtly re<g ref="char:EOLhyphen"/>ceived from your hands, ſuch height of Cruelty and Bar<g ref="char:EOLhyphen"/>baroſity as hath not been meaſured to any People in this Nation many Generations; And all this for our unſpotted Teſtimony in the Truth of the moſt High
+<pb n="4" facs="tcp:46206:3"/>
+               <!-- PDF PAGE 59 -->God, which we dearly own, and our lives are given up for, though ſlighted, and made a mock of by the <hi>Sons</hi> of <hi>Idolatry;</hi> I ſay, we loath your <hi>Club Law,</hi> for in Queen <hi>Maryes</hi> dayes, in that <hi>Perſecution</hi> which was very bloody indeed, with which the Earth is ſtill beſmeared, and the loathſom peſtiferous ſtench thereof is exceeding unſavoury in the minds of the good Proteſtant People of this Nation; I ſay, then there was <hi>Legal Proceſs,</hi> (though by wicked Lawes) and not the practice of <hi>Club Law,</hi> as now, ſo much loathed and deteſted by the good People of <hi>England,</hi> and formerly by your ſelves, as Biſhop <hi>Gauden</hi> in a book againſt the <hi>Quakers</hi> mentioneth, and complains of that Flagellant Method practiced by preceding Powers, their forcing contrary to Conſcience, to be exceeding wicked and cruel; And if you complained of it then, may not we aſwel com<g ref="char:EOLhyphen"/>plain of it now? Was it <hi>Wicked, Cruel</hi> and <hi>Evil</hi> in thoſe, and in them times, and is it <hi>Righteous, Good</hi> and <hi>Merci<g ref="char:EOLhyphen"/>ful</hi> in you now? Is God who gave Judgement in that Caſe then, changed with the times, that that which was <hi>Evil</hi> then is now become good? And that which was <hi>Wicked</hi> then, is now become <hi>Righteous?</hi> God <hi>Eternal</hi> forbid I ſhould ſay it; and whoſoever doth, Blaſphemes. And know this O ye <hi>Magiſtrates,</hi> we do but complain of now, and cry out againſt, what your very ſelves did then, and found it burthenſom unto you; And now the burthen is off from your ſhoulder, and are at eaſe, you lay it upon us; (upon us I ſay) which were no burthen to you in that day, yea and you make your Fingers as heavy as their Loyns: even God Eternal Judge between you and us in this caſe, and make ſpeedy deciſion in this Controverſie, if it be thy holy Will Eternal Father, that it may appear to the whole World how in Innocency we ſtand.</p>
+            <pb n="5" facs="tcp:46206:3"/>
+            <!-- PDF PAGE 59 -->
+            <p>Oh! Conſider, Conſider, it is a ſmall thing for <hi>Liberty</hi> of <hi>Conſcience</hi> to be given in <hi>matters</hi> of <hi>Religion;</hi> for certainly ſo doing, diminiſheth nothing of his that allowes it; And it is the greateſt thing that is to be hindred of it, when it as certainly addeth nothing to him that reſtrains it: Conſcience, is properly and pe<g ref="char:EOLhyphen"/>culiarly Gods alone to exerciſe, and not Mans, or Mens; Therefore think not the underſtandings that God hath given unto us, and enlightened them with a manifeſtation of himſelf, we ever can, will or ſhall give away, or part with to Man or Men; for ſo came in that damnable Apoſtacy at firſt, and the firſt riſe of implicite Faith, (mark well theſe words) it is certainly ſo; for know you this, where the Conſcience is, or hath been made ſhipwrack of by bowing to the Luſts of Men, and the underſtandings of Men given up there<g ref="char:EOLhyphen"/>by, then this followeth, their <hi>Eyes</hi> being <hi>out,</hi> they are turned into the Mills to grind, and being become ſo <hi>(viz.)</hi> wilfully blind, <hi>Vaſſalage</hi> is as well entertained by them, as <hi>Liberty:</hi> have we deſerved theſe things at your hands? or do we deſerve them? And is this a Retaliation Equivolent to our Tribute, and Taxes, we pay? (they which we have hitherto paid) expecting for which we ſhould enjoy a peaceable life, in <hi>all god<g ref="char:EOLhyphen"/>lineſs;</hi> But behold nothing but <hi>Cells, Vaults,</hi> and <hi>Naſty holes</hi> in <hi>Priſons</hi> amongſt <hi>Fellons,</hi> and <hi>Murderers,</hi> is returned unto us for this; Certainly this is moſt in<g ref="char:EOLhyphen"/>jurious and unreaſonable, to exact Tribute and Taxes on us, and not to ſuffer us to labour in our Callings for it; If we muſt bring in our full tale of Brick, let us have our Liberty to gather ſtraw, though not al<g ref="char:EOLhyphen"/>lowed, and ſhut us not up in the places precited,
+<pb n="6" facs="tcp:46206:4"/>
+               <!-- PDF PAGE 60 -->where neither ſtraw, nor any thing elſe is to be had.</p>
+            <p>Aſſuredly, aſſuredly, you muſt needs ſee, and can<g ref="char:EOLhyphen"/>not be ignorant of theſe things, for experience muſt needs have taught you ſomething; is it ſo long ſince your Affliction hath paſſed over your heads, that ſuch things are by you forgot? though you forget them, yet we cannot; and though your hands are ſtretched forth againſt us in cruelty, yet God who knoweth our Innocency, hath numbered the dayes of our Afflicti<g ref="char:EOLhyphen"/>on, and ſo haſteneth the work of our ſore travail in our Generation; and though the Lord ſhould give you power to hunt us to death, and if you and us ſhould not part but at our habitations of ſilence, as ſeveral of our dear Friends have done already by your perſecuting hands; yet I ſay, <hi>God's Eternal Peace</hi> is our <hi>Portion,</hi> in which we lay down our heads; and though you pleaſe your ſelves in theſe things, and pa<g ref="char:EOLhyphen"/>liate your Luſts upon our Affliction, yet know alſo, God hath numbred the dayes of your Cruelty towards us, and you poſt to your ends, where you will lay down your heads in God's wrath; for conſider yeſter<g ref="char:EOLhyphen"/>day comes no more.</p>
+            <p>Theſe <hi>Tragedies</hi> are not much unlike ſome of thoſe Chriſtian Hunters, mentioned in the ten Perſecutions, as <hi>Nero, Domitian, Maximinus,</hi> and <hi>Diocleſian,</hi> all which took pleaſure to hunt the Chriſtians that would not ſa<g ref="char:EOLhyphen"/>crifice to their <hi>Heatheniſh Gods;</hi> and is it leſs now, or un<g ref="char:EOLhyphen"/>like them? do not ſome of you ſport your ſelves in the ſame, and take pleaſure therein, as to hunt the good proteſtant Chriſtians out of their peaceable meetings, with your armed men, and drive them by hundreds in flocks to your Priſons? and is it not becauſe we cannot
+<pb n="7" facs="tcp:46206:4"/>
+               <!-- PDF PAGE 60 -->ceaſe to meet together, to worſhip the living God in the Spirit of Truth, as he hath manifeſted? and if it lie upon any from the Lord, to deny to be driven by your armed men, knowing right well thoſe Proceedings are unjuſt, and abominable to peaceable Engliſh men, then you immediately fall upon them with Sword and Mus<g ref="char:EOLhyphen"/>ket, and ſhed blood as freely as though you were order<g ref="char:EOLhyphen"/>ed only to murder: Now whoſoever this doth, or on whom it lieth to be done, it is for a Teſtimony againſt your wicked illegal Proceedings, by <hi>Club Law,</hi> which our very Souls loath; for we never refuſed to go with a civil Officer, provided he came by <hi>Warrant,</hi> and he orderly ſerving his <hi>Warrant</hi> on thoſe men whoſe names were therein expreſſed: but truly I ſay, though this be <hi>Englands Law,</hi> I never ſee it yet legally executed up<g ref="char:EOLhyphen"/>on us: Therefore a good reaſon have we to cry out againſt your <hi>Club Law,</hi> we being known to be peace<g ref="char:EOLhyphen"/>able men, and ſuch as do wholly follow and enſue the ſame.</p>
+            <p>And further, it is not unknown to you what Blood hath been lately ſhed in our <hi>Meeting</hi> within <hi>Alderſ<g ref="char:EOLhyphen"/>gate,</hi> and eſpecially on the body of that murdered martyred Saint, <hi>John Trowell,</hi> whoſe Blood the Earth hath drunk up, and thereout cryeth aloud for <hi>Juſtice;</hi> with others dead ſince, both of their hurts received there, and of their cruel Impriſonment in <hi>Newgate,</hi> to the number of ten Perſons, whoſe blood is yet to be accounted for. Therefore the thing is not a pa<g ref="char:EOLhyphen"/>ſtime or ſport as you may make it, for the eye of the juſt God beholds your Doings, and will not at all ac<g ref="char:EOLhyphen"/>quit you in theſe Actions; for <hi>Pretious in the Eye of the Lord, are the Death of his martyred Saints;</hi> And I do
+<pb n="8" facs="tcp:46206:5"/>
+               <!-- PDF PAGE 61 -->tell you again, <hi>Englands Laws</hi> are made to preſerve and protect the good Proteſtant People of the ſame, in all their juſt Rights, and not to deſtroy them. Think ye it is not taken notice of by many, how at this day the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> (though the <hi>Laws</hi> are againſt them) have liberty to Meet, and are not broke up, neither deſturbed, but rather indulged; (I ſpeak not this becauſe I would have them, or any denied their Liberty in matter of Conſci<g ref="char:EOLhyphen"/>ence) What meaneth theſe things? well, the Intentions of all hearts are bare and naked before our God: And verily I ſay unto you, O ye <hi>Magiſtrates,</hi> theſe Actions are altogether <hi>Illegal, Cruel, Abominable, Unnatural</hi> and <hi>Heterogenial</hi> towards us, who fear the living God that created all things both in heaven and in earth: Yet nevertheleſs, this I ſay in God's holy dread and fear, prove us yet more, and try us even to the extremity that is in your hearts, yet our unſpotted Innocency muſt, will, and ſhall clear us unto God's juſt Witneſs that is in your Conſciences; and this is God's Word unto you all.</p>
+            <p>And Oh ye <hi>Prieſts!</hi> that are the fomenters of theſe things precited, by your wicked envious Railings, which whets on the <hi>Magiſtrate</hi> to accompliſh your in<g ref="char:EOLhyphen"/>tended Purpoſes; I ſay in God's fear, your Judge<g ref="char:EOLhyphen"/>ment neither ſleepeth nor ſlumbereth, but is near to be accompliſhed, for Gods Eternal decree haſtens con<g ref="char:EOLhyphen"/>cerning you: what ſhall I ſay? you have been tried, and into the Furnace you have been caſt, where you might have learned true Wiſdom, but alas, alas you are found to come forth with a thicker and fouler cruſt tenfold, then when you went in; and though your tree be grown, and the leaves thereof be ſeem<g ref="char:EOLhyphen"/>ingly
+<pb n="9" facs="tcp:46206:5"/>
+               <!-- PDF PAGE 61 -->green, yet know you this from the Lord, if you know it not, your tree is ſeen to be rotten at the root, for true wiſdom hath ſearched it out, and a hewer from the holy One ſtands ready with an Ax in his hand, to give it that fatal blow decreed from the Lord; and great, yea wonderful great will be the fall thereof: if your <hi>Worſhip</hi> were the <hi>Worſhip</hi> of the true God, why did you not manifeſt it to the World, in the day of your Tryal ſome years ſince, had you ſealed your Teſtimonies therein, and firmly ſtood your ground, then it would have confirmed your Doctrine; for <hi>in Seaſon,</hi> and <hi>out of Seaſon,</hi> the <hi>Apoſtles</hi> of Jeſus both <hi>Taught</hi> and <hi>Preached,</hi> and they were true <hi>Miniſters</hi> of the Church of God; but yours have been, and are found not to be ſo; for it was not ſeaſonable for you in that day to hold forth the Teſtimonies, becauſe the Laws were not in being which did uphold you, and on which you leaned, and alſo on which you lean at this day.</p>
+            <p>Now I ſay and do aver, ſhould the <hi>Magiſtrate ſecu<g ref="char:EOLhyphen"/>lar,</hi> and the <hi>Power Military,</hi> each one ſtand in his proper ſtation, and leave you to ſtand alone in yours; I tell you, you would appear to be (even as you are) a <hi>dead Image</hi> without Life, which gives no true motion; now mark us well, the deſpiſed in your Eye, were we ſo, ſuffered we not then as well as you, and from the ſame Power, and are not we the ſame in truths Teſti<g ref="char:EOLhyphen"/>mony now as then? and do you cauſe us to be Perſe<g ref="char:EOLhyphen"/>cuted and cruelly entreated, becauſe we will not do as you have done, that is, change as you have chan<g ref="char:EOLhyphen"/>ged? no, no, far be it from us, God Eternall hath begotten us, in his Life by his holy Seed, which ne<g ref="char:EOLhyphen"/>ver
+<pb n="10" facs="tcp:46206:6"/>
+               <!-- PDF PAGE 62 -->did, will, or ſhall change; for whoever changeth from it, yet it ſtill remains unchangeable in Eternity; Therefore ceaſe, ceaſe ye <hi>Clods</hi> of <hi>Earth,</hi> ye <hi>morſels</hi> of <hi>Envy,</hi> ye <hi>things</hi> of <hi>Naught,</hi> ye <hi>attomes</hi> of <hi>Vanity,</hi> ye <hi>pitchers</hi> filled with <hi>Enmity</hi> againſt the chaſte Seed of God, what are ye in compariſon of that which ye ſtrive with and perſecute? for it is God in his Saints ye ſight withall and againſt: But know aſſuredly, God hath determined deliverance, and hath ſworn it, and we faithfully believe it; therefore we are neither ſoli<g ref="char:EOLhyphen"/>citous or anxious concerning your threats, or cruel actions, that you do, or may be permitted to do unto us, for we are preſerved even by that Power, that gives you power to do what you do; and therefore we are not careful I ſay, for we are better acquainted with that Power than your ſelves are, for our lives and pre<g ref="char:EOLhyphen"/>ſervation therein ſtands, and in the fence thereof do we reſide and inhabite; immortal praiſes be given in the immortal Seed of all his, from the pure breathings of his holy Spirit for ever, and for evermore: But woe, woe unto the <hi>Oppſers, Perſecutors,</hi> and <hi>Fighters</hi> againſt this <hi>ſuffering Seed</hi> of God, and the Lamb-like Spirit, which is now manifeſt, and is moſt ſorely bur<g ref="char:EOLhyphen"/>thened and laden with the unheard of Cruelties, and Abomination of this Generation of every ſort; the Wine-preſs of God's implacable, inexorable wrath is even near to be trod, whereout will flow rivers of Blood, for the diſpoſition of the abominations of this generation, calls for it, and from which there is no eſcape: This is God's Truth to all you <hi>Hirling per<g ref="char:EOLhyphen"/>ſecuting Prieſts,</hi> which will ſtand on your head for ever.</p>
+            <p>And to all you People of this City of <hi>London,</hi> who
+<pb n="12" facs="tcp:46206:6"/>
+               <!-- PDF PAGE 62 -->ever you be that ſport your ſelves in theſe execrable and damnable Practices, of hunting the true Chriſti<g ref="char:EOLhyphen"/>ans out of their peaceable <hi>Meetings,</hi> and are deligh<g ref="char:EOLhyphen"/>ted to ſee us driven like ſilly ſheep up and down the ſtreets, and thruſt into noyſome and diſmal <hi>Cels</hi> by hundreds at once; I ſay long hath the Lord born with you; but you have almoſt ſinned out your day, and your pleaſures are even at an end; <hi>Vanity</hi> after <hi>Vanity, Vanity</hi> after <hi>Vanity</hi> have ye with greedineſs purchaſed, and for no other purpoſe, than to ſerve your wicked hearts luſt, whereby God Eternal hath been, and is moſt highly diſhonoured; you have a pretended Reformation, but rather a Deformation, as witneſs your <hi>Bull-baitings, Bear-baitings,</hi> your vitious Interludes and <hi>Stage-playes,</hi> with all man<g ref="char:EOLhyphen"/>ner of obſcenities; well, the reins is given you and a full ſwinge you had for ſome years paſt in theſe things, yet little do you regard or ſee the Judgements that attend you, but as though by adding <hi>Sin</hi> to <hi>Sin,</hi> is the very way to become <hi>ſanctified,</hi> and ſo he that can <hi>Sin moſt,</hi> is the <hi>beſt Saint</hi> in your account.</p>
+            <p>Oh! my Soul, my Soul is diſſolved into ſorrow and ſufferings for theſe things, and to ſee how things run <hi>retrograde,</hi> how the moſt <hi>obſcene, ſcurrilous, black<g ref="char:EOLhyphen"/>mouthed Curſer</hi> and <hi>Swearer,</hi> with all his vain un<g ref="char:EOLhyphen"/>clean talk, is now counted good <hi>Communicants,</hi> and them that are otherwiſe, are branded and marked out for ruin and deſtruction; but know you this, that live without God in the World, and are not ſatisfied, neither will or can be, till you have full gorged your ſelves in all the curſed Works of Vanity, in which you have ſollaced your hearts; I ſay unto you, a Fire
+<pb n="12" facs="tcp:46206:7"/>
+               <!-- PDF PAGE 63 -->is kindled which inwardly burneth fiercely, out of which will iſſue the Vials of God's <hi>Implacable Ven<g ref="char:EOLhyphen"/>geance,</hi> and is quickly to be poured out upon the Earth, to conſume all the Plants of God's curſe; bundles, bundles, for this Fire which is never to be extinguiſhed, until the Earth be cleared from all thoſe poyſonous peſtiferous Pollutions, with which it is over-pread and covered.</p>
+            <p>This is God's Eternal Truth to you (ye men of <hi>Sodom</hi>) and he that can <hi>Read,</hi> let him <hi>Read.</hi>
+            </p>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:46206:7"/>
+            <!-- PDF PAGE 63 -->
+         </div>
+      </body>
+   </text>
+</TEI>
